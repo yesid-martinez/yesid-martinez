@@ -15,18 +15,20 @@
       </a>
     </td>
     <td align="center">
-      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yesid-martinez&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github" align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesid-martinez&hide=c&langs_count=7&theme=dark&hide_progress=true" src="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img height="250" src="https://github-readme-stats.vercel.app/api?username=yesid-martinez&hide=issues&show=merged&show_icons=true&theme=dark&rank_icon=github" align="center">
+      <img height="180" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesid-martinez&layout=compact&hide=c,scss,typescript,css,nix,makefile&langs_count=7&theme=dark&hide_progress=false" src="https://github.com/anuraghazra/github-readme-stats" align="center">
     </td>
   </tr>
 </table>
 
 <br/>
+
+<p></p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats-opal.vercel.app/?user=yesid-martinez&theme=github-dark&card_width=800" alt="GitHub Streak" /></a>
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" src="https://www.youtube.com/watch?v=SDkAGkd4NLc">
   
 <p></p>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesid-martinez&custom_title=Axel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=109648&line=109648&point=109648&area_color=FFFFFF&title_color=FFFFFF&area=true">
-
-<p></p>
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" src="https://www.youtube.com/watch?v=SDkAGkd4NLc">
