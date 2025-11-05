@@ -1,7 +1,6 @@
 <div align="center">
 
 <h2>"𝚃𝚑𝚎 𝚘𝚗𝚕𝚢 𝚠𝚊𝚢 𝚝𝚘 𝚍𝚘 𝚐𝚛𝚎𝚊𝚝 𝚠𝚘𝚛𝚔 𝚒𝚜 𝚕𝚘𝚟𝚎 𝚠𝚑𝚊𝚝 𝚢𝚘𝚞 𝚍𝚘"</h2>
-<h3>- 𝚂𝚝𝚎𝚟𝚎 𝙹𝚘𝚋𝚜</h3>
 
 <br/>
 
@@ -11,7 +10,7 @@
       <br/>
       <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh6cWN0MTR4YmsyNHBkNTBrMHUxcHUwMDhpamFxc20xZm92a2cwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=300&color=1A9928&center=true&vCenter=true&width=435&lines=Software+Development;FrontEnd+%7C+Backend+;2%2B+years+of+coding+experience;%C2%A1Always+learning+new+technologies!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=300&color=1A9928&center=true&vCenter=true&width=435&lines=Software+Development;3%2B+years+of+coding+experience;Constantly+learning+and+improving!;Exploring+new+technologies!" alt="Typing SVG" />
       </a>
     </td>
     <td align="center">
