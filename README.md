@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <img height="250" src="https://github-readme-stats.vercel.app/api?username=yesid-martinez&hide=issues&show=merged&show_icons=true&theme=dark&rank_icon=github" align="center">
-      <img height="180" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesid-martinez&layout=compact&hide=c,scss,typescript,css,nix,makefile&langs_count=7&theme=dark&hide_progress=false" src="https://github.com/anuraghazra/github-readme-stats" align="center">
+      <img height="180" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesid-martinez&exclude_repo=strake-stats,typescript-notes&layout=compact&hide=c,php,scss,typescript,html,css,nix,makefile,dockerfile,procfile,shell&langs_count=6&theme=dark&hide_progress=false" src="https://github.com/anuraghazra/github-readme-stats" align="center">
     </td>
   </tr>
 </table>
